@@ -13,3 +13,5 @@ FRED simplifies the search process for educational content. Users can efficientl
 FRED democratizes education by making high-quality resources accessible to all, enhances the learning experience by surfacing valuable content, and fosters a community of learners sharing collective intelligence.
 ## Conclusion
 FRED stands as a testament to community-driven educational innovation, making learning more accessible, efficient, and connected.
+
+[Article on FRED](https://docs.google.com/document/d/1zQ2-FiUcIml515jQs-KhSINCqUNcizv_2c7yD9MRsaY/edit?addon_store#heading=h.ajaucivm3j)
